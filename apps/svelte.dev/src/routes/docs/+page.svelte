@@ -65,7 +65,7 @@
 <div class="page">
 	<h1>Documentation</h1>
 	<p>
-		Head to the <a href="/docs/svelte">Svelte</a> or <a href="/docs/kit">SvelteKit</a> reference docs,
+		Head to the <a href="/docs/svelte">Svelte</a>, <a href="/docs/kit">SvelteKit</a> or <a href="/docs/cli">sv CLI</a> reference docs,
 		or choose your adventure:
 	</p>
 
